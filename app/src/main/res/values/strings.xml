@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinningSquare</string>
+    <string name="date_time_url">https://dateandtimeasjson.appspot.com/</string>
+    <string name="baby_blue_color">#b7fff2</string>
+</resources>
